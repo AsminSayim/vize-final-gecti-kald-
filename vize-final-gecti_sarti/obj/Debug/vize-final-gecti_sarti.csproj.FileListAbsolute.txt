@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\bin\Debug\vize-final-gecti_sarti.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\bin\Debug\vize-final-gecti_sarti.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\bin\Debug\vize-final-gecti_sarti.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize-final-gecti_sarti.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize-final-gecti_sarti.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize_final_gecti_sarti.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize_final_gecti_sarti.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize-final-gecti_sarti.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize-final-gecti_sarti.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize-final-gecti_sarti.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-gecti_sarti\vize-final-gecti_sarti\obj\Debug\vize-final-gecti_sarti.pdb
